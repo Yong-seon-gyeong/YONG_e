@@ -1,0 +1,5 @@
+<svg id="phone" xmlns="http://www.w3.org/2000/svg" width="15.88" height="31.11" viewBox="0 0 15.88 31.11">
+  <rect id="사각형_1" data-name="사각형 1" width="15.88" height="31.11" rx="1.28" fill="#1a1a1a"/>
+  <rect id="사각형_2" data-name="사각형 2" width="13.56" height="25.05" rx="1.28" transform="translate(1.16 2.48)" fill="#fff"/>
+  <path id="패스_1" data-name="패스 1" d="M696.75,321.09h-6.61a.25.25,0,0,1-.26-.26h0a.25.25,0,0,1,.26-.25h6.61a.26.26,0,0,1,.26.25h0A.26.26,0,0,1,696.75,321.09Z" transform="translate(-685.5 -319.67)" fill="#fff"/>
+</svg>
